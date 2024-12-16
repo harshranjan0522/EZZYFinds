@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* .side{
+    display: none;
+} */
+.side ul{
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.side button{
+    background-color: black;
+    color: white;
+    border: none;
+}
